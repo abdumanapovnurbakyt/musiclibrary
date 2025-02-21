@@ -1,0 +1,8 @@
+kz\enu\rest\musiclibrary\controller\PlaylistController.class
+kz\enu\rest\musiclibrary\MusicLibraryApplication.class
+kz\enu\rest\musiclibrary\model\Artist.class
+kz\enu\rest\musiclibrary\controller\SongController.class
+kz\enu\rest\musiclibrary\model\Song.class
+kz\enu\rest\musiclibrary\model\Playlist.class
+kz\enu\rest\musiclibrary\controller\ArtistController.class
+kz\enu\rest\musiclibrary\ServletInitializer.class
